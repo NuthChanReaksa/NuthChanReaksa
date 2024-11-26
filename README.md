@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <a href="#"> <img src="snake.svg" alt=""></a>
 
