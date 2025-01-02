@@ -54,6 +54,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NuthChanReaksa/NuthChanReaksa/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://github.com/NuthChanReaksa/NuthChanReaksa/raw/master/github-contribution-grid-snake.svg)
 
 ###
